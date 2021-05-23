@@ -1,0 +1,39 @@
+.header{
+  position:fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  background-color:darkslateblue;
+  color: IVORY;
+  font-family: verdana;
+  font-size: 90%;
+}
+
+body {
+  background-color:dimgray;
+  color: IVORY;
+  font-family: courier;
+  font-size: 82%;
+  text-align: left;
+  margin-top: 180px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+h1,h2,h3 {
+  color: IVORY;
+  font-family: verdana;
+  text-align: center;
+}
+
+.footer{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-style: italic;
+  color: NAVAJOWHITE;
+  font-size: 90%;
+  text-align: right;
+}
+
